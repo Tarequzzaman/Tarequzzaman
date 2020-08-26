@@ -11,7 +11,7 @@ A passionate Software Engineer 🙋‍♂️ having working experience of NLP, D
 
 
 
-### Statistics 📈
+### GitHub Statistics 📈
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tarequzzaman&&show_icons=true&theme=cobalt">
