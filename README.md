@@ -17,3 +17,9 @@ A passionate Software Engineer 🙋‍♂️ having working experience of NLP, D
 <img src="https://github-readme-stats.vercel.app/api?username=Tarequzzaman&&show_icons=true&theme=cobalt">
 
 ---
+
+### Profiles  📖
+
+[linkedin]: https://www.linkedin.com/in/tarequzzaman-khan-195277143/
+
+[stackoverflow]:  https://stackoverflow.com/users/13298339/tarequzzaman-khan
