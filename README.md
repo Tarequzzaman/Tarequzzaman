@@ -9,13 +9,6 @@ A passionate Software Engineer 🙋‍♂️ having working experience of NLP, D
 - 💬 Ask me about ML, NLP, Data preparation / Dataset Standardization
 - ⚡ Fun fact: I am lazy 😔 but passionate 😸
 
-
-
-### GitHub Statistics 📈
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tarequzzaman&&show_icons=true&theme=cobalt">
-
 ---
 
 ### Profiles  📖
