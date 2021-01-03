@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-Software Engineer 🙋‍♂️ having working experience of NLP, Data Analytics, Data Ananlysis, Backend, Chatbot, Dataset Standardization, Vectorization, Machine Learning, Dockerization, AWS  with Django/ Django Rest Framework / Python / Laravel  and some other cool libraries and frameworks. I have interested on solving progarmming problem
-
-- 🔭 I’m currently working on Chatbot development with Rasa
-- 🌱 I’m currently learning CI/CD, Data Visualiztion, JavaScript
-- ⚡ Fun fact: I am lazy 😔 but passionate 😸
+ Django, Python, Laravel Apis, Rasa Chatbot
 
 ---
 
