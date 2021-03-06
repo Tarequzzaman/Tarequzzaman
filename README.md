@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Django, Python, Laravel Apis, Rasa Chatbot, ML
+ Django, Python,SQL, NoSQL,Bangla NLP, Laravel (Backend), Rasa Chatbot, ML
 
 ---
 
