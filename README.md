@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Django, Python, SQL, NoSQL, Bangla NLP, Laravel (Backend), Rasa Chatbot, ML, Data Cleansing
+I have experienced on Django, Python, SQL, NoSQL, Bangla NLP, Laravel (Backend), Rasa Chatbot, ML, Data Cleansing. 
 
 ---
 
