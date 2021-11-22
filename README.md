@@ -7,6 +7,7 @@ Used Language:
 
 * Python
 * Django + DRF 
+* FastAPI
 * Laravel 
 
 ---
