@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-I have experienced on ML, Bengali NLP, FastApi, Django, Python, SQL, NoSQL, Bangla NLP, Laravel (Backend), Rasa Chatbot, ML ops Data Cleansing. 
+I have almost 3.5 years of Experience in Software Development, ML, Data Science etc. 
+
+---
+Used Language: 
+
+* Python
+* Django + DRF 
+* Laravel 
 
 ---
 
