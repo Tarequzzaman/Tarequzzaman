@@ -18,7 +18,7 @@ Used Language:
 [<img align="left" alt="tareq | LinkedIn" width="22px" src="https://i.imgur.com/Li26qrc.png" />][linkedin]
 [<img align="left" alt="tareq | stackoverflow" width="22px" src="https://i.imgur.com/2XDWQ9v.png" />][stackoverflow]
 [<img align="left" alt="tareq | stackoverflow" width="22px" src="https://i.imgur.com/jksNf8B.png" />][uva]
-[<img align="left" alt="tareq | Leetcode" width="40px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />][leetcode]
+[<img align="left" alt="tareq | Leetcode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />][leetcode]
 
 
 
