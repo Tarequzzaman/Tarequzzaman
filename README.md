@@ -20,7 +20,7 @@ Used Language:
 [<img align="left" alt="tareq | stackoverflow" width="22px" src="https://i.imgur.com/jksNf8B.png" />][uva]
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarequzzaman&layout=compact)
 
 
 
