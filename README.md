@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I have almost 5+ years of Experience in Software Development, ML, Data Science etc. 
+
+I am a software engineer with a strong focus on data, bringing five years of experience in the healthcare and travel industries. My expertise lies in building and deploying large-scale applications with efficient and scalable code. With a solid foundation in data analytics, visualization, and traditional software engineering, I have successfully led and executed multiple projects that address complex business challenges and deliver exceptional results. I am passionate about innovation and consistently strive for excellence. I am currently seeking new opportunities to further enhance my skills and contribute to a dynamic team.
 
 ---
 Used Language: 
@@ -8,7 +9,8 @@ Used Language:
 * Python
 * Django + DRF 
 * FastAPI
-* Laravel 
+* Laravel
+* Java
 
 ---
 
