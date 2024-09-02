@@ -20,10 +20,14 @@ Used Language:
 [<img align="left" alt="tareq | stackoverflow" width="22px" src="https://i.imgur.com/jksNf8B.png" />][uva]
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarequzzaman&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarequzzaman&layout=compact" alt="Top Langs" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarequzzaman&show_icons=true&locale=en" alt="Tarequzzaman's GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarequzzaman&show_icons=true&locale=en" alt="Tarequzzaman" /></p>
 
 
 
