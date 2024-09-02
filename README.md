@@ -23,6 +23,9 @@ Used Language:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarequzzaman&layout=compact)
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarequzzaman&show_icons=true&locale=en" alt="Tarequzzaman" /></p>
+
+
 
 
 
